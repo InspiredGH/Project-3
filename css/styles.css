@@ -1,3 +1,8 @@
-#title{
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#title {
   background: #ff4c68;
 }
