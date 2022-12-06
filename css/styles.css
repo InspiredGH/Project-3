@@ -1,9 +1,9 @@
-h1 {
-  font-family: 'Montserrat-black', sans-serif;
-  size: 3rem;
-  line-height: 1.5;
-}
-
 #title {
   background: #ff4c68;
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
 }
