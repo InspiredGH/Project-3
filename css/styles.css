@@ -1,12 +1,25 @@
-#title {
-  background: #ff4c68;
-  color: white;
+
+.body{
+  font-family: "Montserrat";
 }
 
-#topic{
+#title {
+  background: #ff4c68;
+  color: #fff;
+}
+
+.navbar{
+  padding-bottom: 60px;
+}
+
+.navbar-brand{
   font-family: "Ubuntu";
   font-size: 3rem;
   line-height: 1.5;
+}
+
+.nav-item{
+  padding: 0 20px;
 }
 
 #phone{
@@ -14,21 +27,12 @@
   padding: 50px 0 0 0;
 }
 
-.body{
-  font-family: "Montserrat";
-}
-
 h1 {
   font-family: "Montserrat";
   font-size: 3rem;
   line-height: 1.5;
-  padding: 100px 0 30px 0;
 }
 
 .container-fluid{
   padding: 3% 15%;
-}
-
-.nav-item{
-  padding: 0 20px;
 }
