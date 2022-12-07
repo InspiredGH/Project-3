@@ -37,7 +37,7 @@
 
 .title-image{
   width: 60%;
-  transform: rotate(20deg);
+  transform: rotate(25deg);
 }
 
 h1 {
@@ -50,23 +50,22 @@ h1 {
   background: #fff;
   text-align: center;
   width: auto;
-  margin: 120px 200px 120px 200px;
+  padding: 7% 15%;
   line-height: 1.5;
 }
 
-#fontawesome{
+.icon{
   color: #EF8172;
-  font-size: 4rem;
-  padding-bottom: 15px;
+  margin-bottom: 1rem;
 }
 
-#fontawesome:hover{
+.icon:hover{
   color: #FF4C68;
 }
 
 h3{
   font-family: "Montserrat-Bold";
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 .p{
