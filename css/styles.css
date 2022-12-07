@@ -1,4 +1,4 @@
-.body {
+body {
   font-family: "Montserrat";
 }
 
@@ -37,6 +37,7 @@
 .title-image {
   width: 60%;
   transform: rotate(25deg);
+  position: absolute;
 }
 
 h1 {
@@ -51,6 +52,8 @@ h1 {
   width: auto;
   padding: 7% 15%;
   line-height: 1.5;
+  position: relative;
+  z-index: 1;
 }
 
 .icon {
