@@ -41,7 +41,7 @@
 }
 
 h1 {
-  font-family: "Montserrat-light";
+  font-family: "Montserrat";
   font-size: 3rem;
   line-height: 1.5;
 }
@@ -54,13 +54,13 @@ h1 {
   line-height: 1.5;
 }
 
-.fontawesome{
+#fontawesome{
   color: #EF8172;
   font-size: 4rem;
   padding-bottom: 15px;
 }
 
-a:hover{
+#fontawesome:hover{
   color: #FF4C68;
 }
 
