@@ -55,7 +55,7 @@ h1 {
   line-height: 1.5;
   z-index: 1;
   position: absolute;
-  margin-top: 680px;
+  margin-top: 650px;
   width: 100%;
 }
 
@@ -109,7 +109,7 @@ h3 {
   padding-bottom: 3%;
   position: absolute;
   z-index: 3;
-  margin-top: 1550px;
+  margin-top: 1560px;
 }
 
 .press-logo {
@@ -128,4 +128,24 @@ h3 {
 
 .pricing-column {
   padding: 3% 2%;
+}
+
+#cta {
+  padding: 50px 20px;
+  text-align: center;
+  position: absolute;
+  z-index: 5;
+  margin-top: 2380px;
+  width: 100%;
+  background-color: #FF4C68;
+}
+
+#footer {
+  padding: 20px;
+  text-align: center;
+  position: absolute;
+  z-index: 6;
+  margin-top: 2530px;
+  width: 100%;
+  background-color: #FF4C68;
 }
