@@ -49,9 +49,7 @@ h1 {
 #features {
   background: #fff;
   text-align: center;
-  width: auto;
   padding: 7% 15%;
-  line-height: 1.5;
   position: relative;
   z-index: 1;
 }
