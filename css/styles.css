@@ -137,10 +137,17 @@ h3 {
   font-size: 2rem;
 }
 
-
-
 #footer {
-  padding: 20px;
   text-align: center;
   background-color: #FFF;
+  margin: 50px;
+}
+
+.footer-fab{
+  padding: 0 8px;
+  display: inline-block;
+}
+
+.footer-fab-all{
+  padding: 15px 0;
 }
