@@ -127,12 +127,12 @@ h3 {
 }
 
 #cta {
-  padding:  3% 2%;
+  padding: 3% 2%;
   text-align: center;
   background-color: #FF4C68;
 }
 
-.cta-h3{
+.cta-h3 {
   font-family: "Montserrat";
   font-size: 2rem;
 }
@@ -143,11 +143,15 @@ h3 {
   margin: 50px;
 }
 
-.footer-fab{
+.footer-fab {
   padding: 0 8px;
   display: inline-block;
 }
 
-.footer-fab-all{
+.footer-icon{
+  color: #000000;
+}
+
+.footer-fab-all {
   padding: 15px 0;
 }
