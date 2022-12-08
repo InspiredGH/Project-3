@@ -42,7 +42,7 @@ body {
 }
 
 @media (max-width: 990px) {
-  .title {
+  #title {
     text-align: center;
   }
 
