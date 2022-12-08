@@ -3,6 +3,7 @@ body {
   font-family: "Montserrat-bold";
 }
 
+/* Headings */
 h1 {
   font-family: "Montserrat";
   font-size: 3rem;
@@ -147,7 +148,7 @@ h3 {
   display: inline-block;
 }
 
-.footer-icon{
+.footer-icon {
   color: #000000;
 }
 
