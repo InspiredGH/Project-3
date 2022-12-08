@@ -1,3 +1,15 @@
+@media (max-width: 900px){
+  .title-image {
+  width: 60%;
+  transform: rotate(25deg);
+  right: 25%;
+  }
+  #features {
+  padding: 7% 15%;
+  background-color: #fff;
+}
+}
+
 body {
   font-family: "Montserrat-bold";
 }
