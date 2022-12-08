@@ -1,15 +1,3 @@
-@media (max-width: 900px){
-  .title-image {
-  width: 60%;
-  transform: rotate(25deg);
-  right: 25%;
-  }
-  #features {
-  padding: 7% 15%;
-  background-color: #fff;
-}
-}
-
 body {
   font-family: "Montserrat-bold";
 }
@@ -53,10 +41,28 @@ body {
   position: absolute;
 }
 
+@media (max-width: 900px) {
+  .title-image {
+    width: 50%;
+    transform: rotate(0deg);
+    position: static;
+    margin-left: 30%;
+  }
+}
+
 h1 {
   font-family: "Montserrat";
   font-size: 3rem;
   line-height: 1.5;
+}
+
+@media (max-width: 900px) {
+  h1 {
+    font-family: "Montserrat";
+    text-align: center;
+    font-size: 2rem;
+    line-height: 1.5;
+  }
 }
 
 #features {
