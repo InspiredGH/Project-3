@@ -78,6 +78,10 @@ body {
 }
 
 /* testimonials section */
+#testimonials{
+  position: relative;
+}
+
 .testimonial-image {
   width: 10%;
   border-radius: 100%;
